@@ -1,0 +1,10 @@
+{
+  "name": "Rebuildr",
+  "short_name": "Rebuildr",
+  "description": "URL to website creator: turn any URL into a local Next.js project.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [{ "src": "/brand/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
