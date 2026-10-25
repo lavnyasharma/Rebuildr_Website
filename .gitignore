@@ -1,0 +1,23 @@
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+dist-server/
+
+# Local environment overrides (the committed app/.env holds only public IDs)
+*.local
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Local tooling (preview launcher config for the Claude desktop app)
+.claude/
